@@ -1,1 +1,1 @@
-Version 52 !
+Version 52
