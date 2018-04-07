@@ -12,3 +12,5 @@ Go to `Settings` section and insert all the needed information including your ni
 * **Key binds** section gives you an opportunity to change or disable any key bind.
 * **Additional** section includes tool that enables you to save or download your config file on our server.
 * **Interface** section lets you switch between light or dark style.
+
+Save changes and press `Start` button to activate Police Helper.
