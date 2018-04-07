@@ -1,6 +1,6 @@
 # Police Helper
 
-Police Helper is a program that greatly simplifies the process of playing as a cop on any Role Play game project (GTA:SA:MP). It is available for use in conjunction with any game modifications and requires only installed SA:MP R-1 client.
+Police Helper is a program that greatly simplifies the process of playing as a cop on any Role Play game project (GTA:SA:MP). It is available for use in conjunction with any game modifications and requires only installed SA:MP R1 client.
 
 ## Installing
 
