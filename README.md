@@ -8,7 +8,7 @@ All you need to do is download and run binary file `police.exe`. The installatio
 
 ## Getting Started
 
-Go to `Settings` section and insert all the needed information including your nick name, game tag, chatlog path and fraction name. Switching to another sections enables you to change everything you want:
+Go to `Settings` section and insert all the needed information including your nick name, game tag, chatlog path and fraction name. Switching to another sections enables you to configure everything you may need:
 * **Key binds** section gives you an opportunity to change or disable any key bind.
 * **Additional** section includes tool that enables you to save or download your config file on our server.
 * **Interface** section lets you switch between light or dark style.
