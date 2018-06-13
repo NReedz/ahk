@@ -1,1 +1,1 @@
-http://n0rmreedz.000webhostapp.com/
+http://n0rmreedz.000webhostapp.com/panel/
