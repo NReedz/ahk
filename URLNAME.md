@@ -1,1 +1,1 @@
-http://pdhelper.ru/panel/
+https://n0rmreedz.000webhostapp.com/panel/
