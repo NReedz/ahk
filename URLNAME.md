@@ -1,1 +1,1 @@
-http://pdhelper.ru/panel/
+https://pdhelper.ru/panel/
