@@ -1,1 +1,1 @@
-https://pdhelper.ru/panel/
+https://pdhelper.ru/admin/
